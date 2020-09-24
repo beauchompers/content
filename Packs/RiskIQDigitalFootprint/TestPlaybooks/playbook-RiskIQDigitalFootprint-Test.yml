@@ -858,6 +858,8 @@ tasks:
       asset_json: {}
       brand: {}
       enterprise: {}
+      execution-timeout:
+        simple: "600"
       fail_on_error: {}
       name:
         simple: riskiq.com
