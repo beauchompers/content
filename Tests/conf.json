@@ -10,7 +10,8 @@
         {
             "integrations": "RiskIQDigitalFootprint",
             "playbookID": "RiskIQDigitalFootprint-Test",
-            "fromversion": "5.0.0"
+            "fromversion": "5.0.0",
+            "timeout": 500
         },
         {
             "integrations": [
