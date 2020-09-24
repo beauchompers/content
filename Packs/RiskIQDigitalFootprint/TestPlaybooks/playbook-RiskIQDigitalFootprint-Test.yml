@@ -324,8 +324,10 @@ tasks:
       date: {}
       measure: {}
       organization: {}
+      execution-timeout:
+        simple: "600"
       range:
-        simple: "30"
+        simple: "7"
       tag: {}
       page: {}
       size: {}
